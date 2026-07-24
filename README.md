@@ -1,4 +1,4 @@
-# 🐍 Pokémon Data Analysis
+# 🐍 Pokemon Data Analysis
 
 ## 📌 Project Overview
 
