@@ -35,6 +35,22 @@ This project explores the Pokémon dataset using Python to perform data cleaning
 - Data Visualization
 
 ---
+## 📷 Project Visualizations
+
+### 📊 Dashboard Overview
+![Dashboard Overview](dashboard-overview.png)
+
+### ⭐ Legendary vs Non-Legendary Distribution
+![Legendary Distribution](legendary-distribution.png)
+
+### 📏 Weight & Height Comparison
+![Weight & Height Comparison](height-weight-comparison.png)
+
+---
+
+## 🎉 Project Completed
+
+![Project Completed](project-completed.png)
 
 ## 📂 Project Files
 
